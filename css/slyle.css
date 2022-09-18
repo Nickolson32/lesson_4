@@ -92,6 +92,18 @@ section {
   line-height: 1.2;
 }
 
+.accient {
+  color: greenyellow;
+}
+
+.title span {
+  color: red;
+  font-size: 32px;
+}
+footer .title {
+  color: blue;
+}
+
 .text {
   font-family: "Larsseit";
   font-weight: 500;
